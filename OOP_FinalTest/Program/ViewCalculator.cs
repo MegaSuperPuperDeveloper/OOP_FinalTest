@@ -26,17 +26,14 @@ public class ViewCalculator
             if (ans == "1")
             {
                 calculator.Addition(num11, num12, num21, num22);
-                continue;
             }
             else if (ans == "2")
             {
                 calculator.Substract(num11, num12, num21, num22);
-                continue;
             }
             else if (ans == "3")
             {
                 calculator.Divide(num11, num12, num21, num22);
-                continue;
             }
             else if (ans == "4")
             {
